@@ -4,499 +4,863 @@
       "id": 1,
       "name": "Install & Configure Your SMTP Power",
       "url": "https://www.mediafire.com/folder/jgrx0cdxkl76m",
-      "tags": ["SMTP", "Installation", "Konfiguration"]
+      "tags": [
+        "SMTP",
+        "Installation",
+        "Konfiguration"
+      ]
     },
     {
       "id": 2,
       "name": "The Data Scientist's Toolbox - Moad HANI",
       "url": "https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD",
-      "tags": ["Data Science", "Toolbox", "Moad HANI"]
+      "tags": [
+        "Data Science",
+        "Toolbox",
+        "Moad HANI"
+      ]
     },
     {
       "id": 3,
       "name": "Spamming Full Course - Paid Course",
       "url": "https://drive.google.com/drive/folders/1SCppYgyKZHkqRLGeByl2KRqUHckx9ao6",
-      "tags": ["Spamming", "Course", "Full Course"]
+      "tags": [
+        "Spamming",
+        "Course",
+        "Full Course"
+      ]
     },
     {
       "id": 4,
       "name": "Azure HQ Ebook Collection A to Z",
       "url": "https://drive.google.com/drive/folders/1hBkIuBjePJmzHgt4Fg7Vglv6_YYPNNPA",
-      "tags": ["Azure", "Ebook", "Collection", "Cloud"]
+      "tags": [
+        "Azure",
+        "Ebook",
+        "Collection",
+        "Cloud"
+      ]
     },
     {
       "id": 5,
       "name": "OpenOSINT - Automate Security Research",
       "url": "https://github.com/OpenOSINT/OpenOSINT",
-      "tags": ["OSINT", "Security", "Automation", "Research"]
+      "tags": [
+        "OSINT",
+        "Security",
+        "Automation",
+        "Research"
+      ]
     },
     {
       "id": 6,
       "name": "Data Science Resources (Tutorials + Books + Courses)",
       "url": "https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD",
-      "tags": ["Data Science", "Tutorials", "Books", "Courses"]
+      "tags": [
+        "Data Science",
+        "Tutorials",
+        "Books",
+        "Courses"
+      ]
     },
     {
       "id": 7,
       "name": "Paste-Site",
       "url": "https://trash.st/u/EarlHickey",
-      "tags": ["Paste", "Text", "Sharing"]
+      "tags": [
+        "Paste",
+        "Text",
+        "Sharing"
+      ]
     },
     {
       "id": 8,
       "name": "Awesome Machine Learning Resources",
       "url": "https://github.com/ZhiningLiu1998/awesome-machine-learning-resources",
-      "tags": ["Machine Learning", "Resources", "List", "Awesome"]
+      "tags": [
+        "Machine Learning",
+        "Resources",
+        "List",
+        "Awesome"
+      ]
     },
     {
       "id": 9,
       "name": "AdStrike - Advanced Red-Team Framework",
       "url": "https://github.com/capture0x/adstrike",
-      "tags": ["Red Team", "Framework", "AD", "Security"]
+      "tags": [
+        "Red Team",
+        "Framework",
+        "AD",
+        "Security"
+      ]
     },
     {
       "id": 10,
       "name": "Anthropic Cybersecurity Skills (754 AI-ready skills)",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "tags": ["Cybersecurity", "AI", "Skills", "Anthropic"]
+      "tags": [
+        "Cybersecurity",
+        "AI",
+        "Skills",
+        "Anthropic"
+      ]
     },
     {
       "id": 11,
       "name": "Greasemonkey Userscripts",
       "url": "https://github.com/adamlui/userscripts/tree/master",
-      "tags": ["Greasemonkey", "Userscripts", "Tampermonkey", "Scripts"]
+      "tags": [
+        "Greasemonkey",
+        "Userscripts",
+        "Tampermonkey",
+        "Scripts"
+      ]
     },
     {
       "id": 12,
       "name": "Microsoft Activation Scripts (MAS)",
       "url": "https://github.com/massgravel/Microsoft-Activation-Scripts",
-      "tags": ["Microsoft", "Activation", "Scripts", "Windows"]
+      "tags": [
+        "Microsoft",
+        "Activation",
+        "Scripts",
+        "Windows"
+      ]
     },
     {
       "id": 13,
       "name": "Programming Resources",
       "url": "https://drive.google.com/drive/u/0/folders/0B0pxLafSqCjKT244VW92b1pGVnM?resourcekey=0-eIAXOZxbW8eooZRHR96zNw",
-      "tags": ["Programming", "Resources"]
+      "tags": [
+        "Programming",
+        "Resources"
+      ]
     },
     {
       "id": 14,
       "name": "Learning Resources",
       "url": "https://drive.google.com/drive/folders/1-L_LhnZMP0bMX55Vnj5a2dP7PbIF0-0c",
-      "tags": ["Learning", "Education"]
+      "tags": [
+        "Learning",
+        "Education"
+      ]
     },
     {
       "id": 15,
       "name": "Build Your Own SMTP Email Server",
       "url": "https://mega.nz/folder/RcpAxZgY#LfjE62foCus_w70eaNl5kA",
-      "tags": ["SMTP", "Email Server", "Course"]
+      "tags": [
+        "SMTP",
+        "Email Server",
+        "Course"
+      ]
     },
     {
       "id": 16,
       "name": "pyWhat - Identify emails, IPs, and patterns",
       "url": "https://github.com/bee-san/pyWhat",
-      "tags": ["Python", "OSINT", "Pattern Recognition"]
+      "tags": [
+        "Python",
+        "OSINT",
+        "Pattern Recognition"
+      ]
     },
     {
       "id": 17,
       "name": "WhatsApp Public Logan - AI bot for WhatsApp",
       "url": "https://github.com/hoodini/whatsapp-public-logan",
-      "tags": ["WhatsApp", "AI", "Bot", "Automation"]
+      "tags": [
+        "WhatsApp",
+        "AI",
+        "Bot",
+        "Automation"
+      ]
     },
     {
       "id": 18,
       "name": "Ai-Agent-Skills - Library and toolkit for AI agents",
       "url": "https://github.com/MoizIbnYousaf/Ai-Agent-Skills",
-      "tags": ["AI", "Agents", "Library", "Toolkit"]
+      "tags": [
+        "AI",
+        "Agents",
+        "Library",
+        "Toolkit"
+      ]
     },
     {
       "id": 19,
       "name": "Iron Proxy",
       "url": "https://github.com/ironsh/iron-proxy",
-      "tags": ["Proxy", "Security", "Privacy"]
+      "tags": [
+        "Proxy",
+        "Security",
+        "Privacy"
+      ]
     },
     {
       "id": 20,
       "name": "METATRON - Local AI penetration testing assistant",
       "url": "https://github.com/sooryathejas/METATRON",
-      "tags": ["AI", "Penetration Testing", "Security"]
+      "tags": [
+        "AI",
+        "Penetration Testing",
+        "Security"
+      ]
     },
     {
       "id": 21,
       "name": "LinkedIn Profile Viewer (Anonymous)",
       "url": "https://www.outx.ai/all-tools/linkedin-profile-viewer",
-      "tags": ["LinkedIn", "OSINT", "Anonymous"]
+      "tags": [
+        "LinkedIn",
+        "OSINT",
+        "Anonymous"
+      ]
     },
     {
       "id": 22,
       "name": "Search Google like a hacker",
       "url": "https://drive.google.com/file/d/0By8giYopjXKPQWJ5RGVMdVJKLTQ/view?resourcekey=0-AaLCOYm1SJN-LcJrTnJJ0w",
-      "tags": ["Google", "Hacking", "Search", "OSINT"]
+      "tags": [
+        "Google",
+        "Hacking",
+        "Search",
+        "OSINT"
+      ]
     },
     {
       "id": 23,
       "name": "Vulnerability Checklist",
       "url": "https://github.com/Az0x7/vulnerability-Checklist",
-      "tags": ["Vulnerability", "Checklist", "Security"]
+      "tags": [
+        "Vulnerability",
+        "Checklist",
+        "Security"
+      ]
     },
     {
       "id": 24,
       "name": "100+ Cyber Security & Hacking Books",
       "url": "https://drive.google.com/drive/folders/1F7D5c30nP-y_Q7SFqoRTRvJ7tl0UcY3q",
-      "tags": ["Cybersecurity", "Hacking", "Books", "Dark Web"]
+      "tags": [
+        "Cybersecurity",
+        "Hacking",
+        "Books",
+        "Dark Web"
+      ]
     },
     {
       "id": 25,
       "name": "Cyber Security Full Course",
       "url": "https://mega.nz/folder/IyNVkTBK#vv2qLDV-yXRdYCmdAz-uiA",
-      "tags": ["Cybersecurity", "Course", "Full Course"]
+      "tags": [
+        "Cybersecurity",
+        "Course",
+        "Full Course"
+      ]
     },
     {
       "id": 26,
       "name": "Post4U - Schedule Social Media Posts",
       "url": "https://github.com/ShadowSlayer03/Post4U-Schedule-Social-Media-Posts",
-      "tags": ["Social Media", "Automation", "Scheduling"]
+      "tags": [
+        "Social Media",
+        "Automation",
+        "Scheduling"
+      ]
     },
     {
       "id": 27,
       "name": "Complete Microsoft Excel Course",
       "url": "https://drive.google.com/drive/folders/1Pjf5wqwmCWJKWm2XMmwex32kVfGK1JxR",
-      "tags": ["Excel", "Course", "Microsoft"]
+      "tags": [
+        "Excel",
+        "Course",
+        "Microsoft"
+      ]
     },
     {
       "id": 28,
       "name": "Kali Linux And Windows Hacking Course",
       "url": "https://drive.google.com/drive/folders/1bIhpI_QlhrgkLfR-z_c6sbBBMeiPaMwy",
-      "tags": ["Kali Linux", "Windows", "Hacking", "Course"]
+      "tags": [
+        "Kali Linux",
+        "Windows",
+        "Hacking",
+        "Course"
+      ]
     },
     {
       "id": 29,
       "name": "200+ Free Cybersecurity Books",
       "url": "https://drive.google.com/drive/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU",
-      "tags": ["Cybersecurity", "Books", "Free"]
+      "tags": [
+        "Cybersecurity",
+        "Books",
+        "Free"
+      ]
     },
     {
       "id": 30,
       "name": "Sherlock - Hunt down social media accounts",
       "url": "https://github.com/sherlock-project/sherlock",
-      "tags": ["OSINT", "Social Media", "Username Search"]
+      "tags": [
+        "OSINT",
+        "Social Media",
+        "Username Search"
+      ]
     },
     {
       "id": 31,
       "name": "vphone-aio - iOS 26 Virtual Machine",
       "url": "https://github.com/34306/vphone-aio",
-      "tags": ["iOS", "Virtual Machine", "Jailbreak"]
+      "tags": [
+        "iOS",
+        "Virtual Machine",
+        "Jailbreak"
+      ]
     },
     {
       "id": 32,
       "name": "claw-code - Claude Code Leaked Source",
       "url": "https://github.com/ultraworkers/claw-code",
-      "tags": ["Claude", "AI", "Source Code", "Leak"]
+      "tags": [
+        "Claude",
+        "AI",
+        "Source Code",
+        "Leak"
+      ]
     },
     {
       "id": 33,
       "name": "Paste-Seite",
       "url": "https://trash.st/p/PdFPE0bEsEHm",
-      "tags": ["Paste", "Text", "Sharing"]
+      "tags": [
+        "Paste",
+        "Text",
+        "Sharing"
+      ]
     },
     {
       "id": 34,
       "name": "Platinum Bundle 2.0 AI",
       "url": "https://closed-hyacinth-b7f.notion.site/Platinum-Bundle-2-0-92c34bd92b2c48ceab940bace31a0f86",
-      "tags": ["AI", "Bundle", "Notion"]
+      "tags": [
+        "AI",
+        "Bundle",
+        "Notion"
+      ]
     },
     {
       "id": 35,
       "name": "Paste-Co.de - 542+ Sources",
       "url": "https://www.paste-co.de/",
-      "tags": ["Paste", "Sources", "Links"]
+      "tags": [
+        "Paste",
+        "Sources",
+        "Links"
+      ]
     },
     {
       "id": 36,
       "name": "Hackingtool - All-in-one hacking tool",
       "url": "https://github.com/Z4nzu/hackingtool",
-      "tags": ["Hacking", "Tools", "All-in-one"]
+      "tags": [
+        "Hacking",
+        "Tools",
+        "All-in-one"
+      ]
     },
     {
       "id": 37,
       "name": "Free Programming Books",
       "url": "https://github.com/ebookfoundation/free-programming-books",
-      "tags": ["Programming", "Books", "Free", "Learning"]
+      "tags": [
+        "Programming",
+        "Books",
+        "Free",
+        "Learning"
+      ]
     },
     {
       "id": 38,
       "name": "50+ Gb Ethical Hacking Course",
       "url": "https://drive.google.com/drive/folders/12Mvq6kE2HJDwN2CZhEGWizyWt87YunkU",
-      "tags": ["Ethical Hacking", "Course", "Free"]
+      "tags": [
+        "Ethical Hacking",
+        "Course",
+        "Free"
+      ]
     },
     {
       "id": 39,
       "name": "Free SMS Verification Services",
       "url": "https://sms.sb/dashboard",
-      "tags": ["SMS", "Verification", "Free", "WhatsApp", "Telegram"]
+      "tags": [
+        "SMS",
+        "Verification",
+        "Free",
+        "WhatsApp",
+        "Telegram"
+      ]
     },
     {
       "id": 40,
       "name": "LuxTTS - Clone any voice in seconds",
       "url": "https://github.com/ysharma3501/LuxTTS?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev",
-      "tags": ["TTS", "Voice Cloning", "AI"]
+      "tags": [
+        "TTS",
+        "Voice Cloning",
+        "AI"
+      ]
     },
     {
       "id": 41,
       "name": "TryHackMe Roadmap - 350+ free rooms",
       "url": "https://github.com/uttambodara/TryHackMeRoadmap",
-      "tags": ["TryHackMe", "Cybersecurity", "Learning", "Roadmap"]
+      "tags": [
+        "TryHackMe",
+        "Cybersecurity",
+        "Learning",
+        "Roadmap"
+      ]
     },
     {
       "id": 42,
       "name": "TaxHacker - Self-hosted AI accountant",
       "url": "https://github.com/vas3k/TaxHacker",
-      "tags": ["AI", "Tax", "Finance", "Self-hosted"]
+      "tags": [
+        "AI",
+        "Tax",
+        "Finance",
+        "Self-hosted"
+      ]
     },
     {
       "id": 43,
       "name": "Project Ideas And Resources",
       "url": "https://github.com/The-Cool-Coders/Project-Ideas-And-Resources",
-      "tags": ["Projects", "Ideas", "Resources"]
+      "tags": [
+        "Projects",
+        "Ideas",
+        "Resources"
+      ]
     },
     {
       "id": 44,
       "name": "SkillsMP - 60,000 agent skills",
       "url": "https://skillsmp.com/es/search",
-      "tags": ["AI", "Skills", "Agents"]
+      "tags": [
+        "AI",
+        "Skills",
+        "Agents"
+      ]
     },
     {
       "id": 45,
       "name": "MoneyPrinterV2 - Automate making money online",
       "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
-      "tags": ["Automation", "Money", "Online"]
+      "tags": [
+        "Automation",
+        "Money",
+        "Online"
+      ]
     },
     {
       "id": 46,
       "name": "Spooty - Self-hosted Spotify downloader",
       "url": "https://github.com/Raiper34/spooty",
-      "tags": ["Spotify", "Downloader", "Self-hosted"]
+      "tags": [
+        "Spotify",
+        "Downloader",
+        "Self-hosted"
+      ]
     },
     {
       "id": 47,
       "name": "Akuse - Anime streaming app without ads",
       "url": "https://github.com/akuse-app/akuse",
-      "tags": ["Anime", "Streaming", "Ad-free"]
+      "tags": [
+        "Anime",
+        "Streaming",
+        "Ad-free"
+      ]
     },
     {
       "id": 48,
       "name": "Almost 1 Tb Of Hacking Courses",
       "url": "https://mega.nz/folder/lm5lgQxT#Qh52YqE0-kwP_-eWohMBbw",
-      "tags": ["Hacking", "Courses", "Mega"]
+      "tags": [
+        "Hacking",
+        "Courses",
+        "Mega"
+      ]
     },
     {
       "id": 49,
       "name": "MiroFish - Build autonomous prediction agents",
       "url": "https://github.com/666ghj/MiroFish?utm_source=opensourceprojects.dev&ref=opensourceprojects.dev",
-      "tags": ["AI", "Prediction", "Agents"]
+      "tags": [
+        "AI",
+        "Prediction",
+        "Agents"
+      ]
     },
     {
       "id": 50,
       "name": "VidBee - Download videos from 1000+ sites",
       "url": "https://github.com/nexmoe/VidBee/",
-      "tags": ["Video Downloader", "Download", "Media"]
+      "tags": [
+        "Video Downloader",
+        "Download",
+        "Media"
+      ]
     },
     {
       "id": 51,
       "name": "PhotoGIMP - Free version of Adobe Photoshop",
       "url": "https://github.com/Diolinux/PhotoGIMP",
-      "tags": ["Photoshop", "GIMP", "Free", "Image Editing"]
+      "tags": [
+        "Photoshop",
+        "GIMP",
+        "Free",
+        "Image Editing"
+      ]
     },
     {
       "id": 52,
       "name": "HeadlessX - Self-hosted scraping platform",
       "url": "https://github.com/saifyxpro/HeadlessX",
-      "tags": ["Scraping", "Self-hosted", "Automation"]
+      "tags": [
+        "Scraping",
+        "Self-hosted",
+        "Automation"
+      ]
     },
     {
       "id": 53,
       "name": "GhostTrack - Track location of mobile number",
       "url": "https://github.com/HunxByts/GhostTrack/tree/main",
-      "tags": ["Tracking", "Mobile", "OSINT"]
+      "tags": [
+        "Tracking",
+        "Mobile",
+        "OSINT"
+      ]
     },
     {
       "id": 54,
       "name": "shadPS4 - PlayStation 4 emulator",
       "url": "https://github.com/shadps4-emu/shadPS4",
-      "tags": ["Emulator", "PlayStation", "PS4", "C++"]
+      "tags": [
+        "Emulator",
+        "PlayStation",
+        "PS4",
+        "C++"
+      ]
     },
     {
       "id": 55,
       "name": "500 TB Tutorials & Educational Resources",
       "url": "https://drive.google.com/drive/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD",
-      "tags": ["Tutorials", "Education", "Resources", "Money Make"]
+      "tags": [
+        "Tutorials",
+        "Education",
+        "Resources",
+        "Money Make"
+      ]
     },
     {
       "id": 56,
       "name": "Free Cybersecurity Courses - Awesome Cyber Security University",
       "url": "https://docs.google.com/document/u/0/d/1zKkLwgfUCESexAQrhcvsCM1XDYU50mbMz12OfivTZnE/mobilebasic?pli=1",
-      "tags": ["Cybersecurity", "Courses", "Free"]
+      "tags": [
+        "Cybersecurity",
+        "Courses",
+        "Free"
+      ]
     },
     {
       "id": 57,
       "name": "Browse 2,000 remote jobs",
       "url": "https://docs.google.com/spreadsheets/u/0/d/1foTrcSWdxHJmJKoZBDgn2i6VFgyffeDFUePf2utaB3w/htmlview",
-      "tags": ["Jobs", "Remote", "Spreadsheet"]
+      "tags": [
+        "Jobs",
+        "Remote",
+        "Spreadsheet"
+      ]
     },
     {
       "id": 58,
       "name": "Pasteview API",
       "url": "https://documenter.getpostman.com/view/41629477/2sAYQiAn2L",
-      "tags": ["API", "Paste", "Postman"]
+      "tags": [
+        "API",
+        "Paste",
+        "Postman"
+      ]
     },
     {
       "id": 59,
       "name": "BlackHat Cracking Course For TN Chor",
       "url": "https://drive.google.com/drive/folders/17KyX_80h0yBUrc3X-PMa3EnXoE0kFmJJ",
-      "tags": ["BlackHat", "Cracking", "Course"]
+      "tags": [
+        "BlackHat",
+        "Cracking",
+        "Course"
+      ]
     },
     {
       "id": 60,
       "name": "Cybersecurity Resources",
       "url": "https://drive.google.com/drive/folders/1ecjqC6uBOv-Dx0s1laGsSjkmV9vbPB4l",
-      "tags": ["Cybersecurity", "Resources"]
+      "tags": [
+        "Cybersecurity",
+        "Resources"
+      ]
     },
     {
       "id": 61,
       "name": "REFUND.SH Ebook Leak",
       "url": "https://drive.google.com/drive/folders/1ei3D4TsU1scpO44aBW6l7J-e4K9pkiLo",
-      "tags": ["Ebook", "Leak", "Refund"]
+      "tags": [
+        "Ebook",
+        "Leak",
+        "Refund"
+      ]
     },
     {
       "id": 62,
       "name": "2200+ Gym & Fitness Reels",
       "url": "https://drive.google.com/drive/folders/1jesQ7V_duScTQ9W02bCPsvc8ffXSabxP",
-      "tags": ["Fitness", "Gym", "Reels", "Videos"]
+      "tags": [
+        "Fitness",
+        "Gym",
+        "Reels",
+        "Videos"
+      ]
     },
     {
       "id": 63,
       "name": "Dart Course",
       "url": "https://drive.google.com/drive/folders/1PFlksWTTfbn6P0zvdEhRqaSWeLJt7wJN",
-      "tags": ["Dart", "Course", "Programming"]
+      "tags": [
+        "Dart",
+        "Course",
+        "Programming"
+      ]
     },
     {
       "id": 64,
       "name": "Become a Prompt Engineer",
       "url": "https://drive.google.com/drive/folders/1zRSK69ecEAW-XSMWKlUrV8V7KnzPf6FO",
-      "tags": ["Prompt Engineering", "AI", "Course"]
+      "tags": [
+        "Prompt Engineering",
+        "AI",
+        "Course"
+      ]
     },
     {
       "id": 65,
       "name": "RSI Mastery By Donte Walker",
       "url": "https://drive.google.com/drive/folders/1ZyfocZLG0YopleSWqNChI7JZOaVFONi7",
-      "tags": ["RSI", "Mastery", "Donte Walker"]
+      "tags": [
+        "RSI",
+        "Mastery",
+        "Donte Walker"
+      ]
     },
     {
       "id": 66,
       "name": "Professional Development Hub",
       "url": "https://drive.google.com/drive/mobile/folders/1if09a9QyNfBRlAKey7If5preZ3BswudZ",
-      "tags": ["Excel", "AI", "BA", "PM", "SQL", "Data", "Visualization", "Scrum", "Product Owner"]
+      "tags": [
+        "Excel",
+        "AI",
+        "BA",
+        "PM",
+        "SQL",
+        "Data",
+        "Visualization",
+        "Scrum",
+        "Product Owner"
+      ]
     },
     {
       "id": 67,
       "name": "Myhackersworld - Azure",
       "url": "https://drive.google.com/drive/u/0/folders/1-e1JPQH-rIgRdFVoYOkHzJxjQOguab6L",
-      "tags": ["Azure", "Cloud", "Myhackersworld"]
+      "tags": [
+        "Azure",
+        "Cloud",
+        "Myhackersworld"
+      ]
     },
     {
       "id": 68,
       "name": "Myhackersworld - AWS",
       "url": "https://drive.google.com/drive/u/0/folders/1-gSp4fGmR3b189VuAx2Qi6KeaoY1Ycts",
-      "tags": ["AWS", "Cloud", "Myhackersworld"]
+      "tags": [
+        "AWS",
+        "Cloud",
+        "Myhackersworld"
+      ]
     },
     {
       "id": 69,
       "name": "Myhackersworld - CEH",
       "url": "https://drive.google.com/drive/u/0/folders/1-LvoTqNcxgYxMRF3oU3Gx6oXM1nrG4bg",
-      "tags": ["CEH", "Ethical Hacking", "Myhackersworld"]
+      "tags": [
+        "CEH",
+        "Ethical Hacking",
+        "Myhackersworld"
+      ]
     },
     {
       "id": 70,
       "name": "Myhackersworld - CCNA SECURITY",
       "url": "https://drive.google.com/drive/u/0/folders/1-QWtz49Z7rjZ2riekl8d0jQ4fvtbD-IU",
-      "tags": ["CCNA", "Security", "Myhackersworld"]
+      "tags": [
+        "CCNA",
+        "Security",
+        "Myhackersworld"
+      ]
     },
     {
       "id": 71,
       "name": "Myhackersworld - CCDA",
       "url": "https://drive.google.com/drive/u/0/folders/1-W0TYkbRlehkEITj4ZozjwvYEvr3d9iL",
-      "tags": ["CCDA", "Cisco", "Myhackersworld"]
+      "tags": [
+        "CCDA",
+        "Cisco",
+        "Myhackersworld"
+      ]
     },
     {
       "id": 72,
       "name": "Cybersecurity",
       "url": "https://drive.google.com/drive/u/0/folders/179D_slEOLXWOTeFdmRrMkdV8C4DSLdYT",
-      "tags": ["Cybersecurity"]
+      "tags": [
+        "Cybersecurity"
+      ]
     },
     {
       "id": 73,
       "name": "Project Management Professional (PMP)",
       "url": "https://drive.google.com/drive/u/0/folders/1_MQO335jA7D4mZ0aBOxfi-yPToKJ6Ost",
-      "tags": ["PMP", "Project Management"]
+      "tags": [
+        "PMP",
+        "Project Management"
+      ]
     },
     {
       "id": 74,
       "name": "Agent Templates, Guides & Tools",
       "url": "https://drive.google.com/drive/u/0/folders/1c31pa8DyCJsEpm4wZspRUwt9Wb9ZhoVm",
-      "tags": ["AI Agents", "Templates", "Guides", "Tools"]
+      "tags": [
+        "AI Agents",
+        "Templates",
+        "Guides",
+        "Tools"
+      ]
     },
     {
       "id": 75,
       "name": "The Data Scientist's Toolbox - Moad HANI",
       "url": "https://drive.google.com/drive/u/0/folders/1CgN7DE3pNRNh_4BA_zrrMLqWz6KquwuD",
-      "tags": ["Data Science", "Toolbox", "Moad HANI"]
+      "tags": [
+        "Data Science",
+        "Toolbox",
+        "Moad HANI"
+      ]
     },
     {
       "id": 76,
       "name": "Cybersecurity Books",
       "url": "https://drive.google.com/drive/u/0/folders/1DqvFPxC3ROZgRndVYsfpX7C7Nqx1CnmL",
-      "tags": ["Cybersecurity", "Books"]
+      "tags": [
+        "Cybersecurity",
+        "Books"
+      ]
     },
     {
       "id": 77,
       "name": "PAID COURSES for FREE",
       "url": "https://drive.google.com/drive/u/0/folders/1ezDZ3uDplBOjbuBGw1qxzzD64tiXhtDt",
-      "tags": ["Courses", "Free", "Paid Courses"]
+      "tags": [
+        "Courses",
+        "Free",
+        "Paid Courses"
+      ]
     },
     {
       "id": 78,
       "name": "SECURITY BOOKS",
       "url": "https://drive.google.com/drive/u/0/folders/1TYQx-qNuvyeyHHHYz2u5vn0P2s1SRoBw",
-      "tags": ["Security", "Books"]
+      "tags": [
+        "Security",
+        "Books"
+      ]
     },
     {
       "id": 79,
       "name": "How to make Mega bucks using Ebay!",
       "url": "https://drive.google.com/file/d/11c_m_uezdnz-ITNl_2NSrXm-qpAQUK3x/view",
-      "tags": ["Ebay", "Money", "Guide"]
+      "tags": [
+        "Ebay",
+        "Money",
+        "Guide"
+      ]
     },
     {
       "id": 80,
       "name": "Hacking - Beginner to Expert Guide",
       "url": "https://drive.google.com/file/d/14mpTyZ-UnVwSXyiJNl3eg-Ssih6r9STZ/view",
-      "tags": ["Hacking", "Guide", "Beginner", "Expert"]
+      "tags": [
+        "Hacking",
+        "Guide",
+        "Beginner",
+        "Expert"
+      ]
     },
     {
       "id": 81,
       "name": "BOTNET BIBLE V.3",
       "url": "https://drive.google.com/file/d/15mCVUX-FiAf-eVrzsKbhd2NLO447Mttb/view",
-      "tags": ["Botnet", "Bible", "Hacking"]
+      "tags": [
+        "Botnet",
+        "Bible",
+        "Hacking"
+      ]
     },
     {
       "id": 82,
       "name": "CRYPTO PATTERN SECRET PREVIEW",
       "url": "https://drive.google.com/file/d/15sL4WQ7ktIOM7YrN9rVzYSZ0fxXxZq1r/view",
-      "tags": ["Crypto", "Pattern", "Secret"]
+      "tags": [
+        "Crypto",
+        "Pattern",
+        "Secret"
+      ]
     },
     {
       "id": 83,
       "name": "Linux cyber",
       "url": "https://drive.google.com/file/d/18fzOBJnpzk0_O40ehzqReU1KAITi8ES9/view",
-      "tags": ["Linux", "Cybersecurity"]
+      "tags": [
+        "Linux",
+        "Cybersecurity"
+      ]
+    },
+    {
+      "id": 84,
+      "name": "CSE-Telegram-Engine",
+      "url": "https://cse.google.com/cse?cx=955e937e74f5a479f&q",
+      "tags": [
+        "Telegram",
+        "CSE",
+        "Engine"
+      ]
     }
   ]
 }
