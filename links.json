@@ -861,6 +861,16 @@
         "CSE",
         "Engine"
       ]
+    },
+    {
+      "id": 85,
+      "name": "annas-archive-book",
+      "url": "https://annas-archive.gl",
+      "tags": [
+        "annas-archive",
+        "free",
+        "book"
+      ]
     }
   ]
 }
