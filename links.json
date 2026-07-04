@@ -903,6 +903,14 @@
       "tags": [
         "Kali Tools Library"
       ]
+    },
+    {
+      "id": 90,
+      "name": "Claude-OSINT",
+      "url": "https://github.com/elementalsouls/Claude-OSINT",
+      "tags": [
+        "Claude-OSINT"
+      ]
     }
   ]
 }
