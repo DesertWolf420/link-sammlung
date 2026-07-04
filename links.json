@@ -911,6 +911,14 @@
       "tags": [
         "Claude-OSINT"
       ]
+    },
+    {
+      "id": 91,
+      "name": "Awesome Breach Intelligence",
+      "url": "https://github.com/m00s3c/awesome-breach-intelligence",
+      "tags": [
+        "Awesome Breach Intelligence"
+      ]
     }
   ]
 }
