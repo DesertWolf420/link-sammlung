@@ -951,6 +951,15 @@
       "tags": [
         "Courses Udemy Free"
       ]
+    },
+    {
+      "id": 96,
+      "name": "web-scraper-excel",
+      "url": "https://github.com/orgs/oxylabs/repositories",
+      "tags": [
+        "web-scraper-excel",
+        "browser"
+      ]
     }
   ]
 }
