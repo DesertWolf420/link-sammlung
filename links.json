@@ -960,6 +960,14 @@
         "web-scraper-excel",
         "browser"
       ]
+    },
+    {
+      "id": 97,
+      "name": "kdnuggets",
+      "url": "https://www.kdnuggets.com/",
+      "tags": [
+        "AI--BLOG"
+      ]
     }
   ]
 }
