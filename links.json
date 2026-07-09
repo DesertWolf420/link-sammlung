@@ -992,6 +992,14 @@
       "tags": [
         "Tools and Techniques for Red Team / Penetration Testing"
       ]
+    },
+    {
+      "id": 101,
+      "name": "HackGPT",
+      "url": "https://github.com/yashab-cyber/HackGpt",
+      "tags": [
+        "HackGPT"
+      ]
     }
   ]
 }
