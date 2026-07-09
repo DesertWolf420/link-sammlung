@@ -984,6 +984,14 @@
       "tags": [
         "Web Scraping"
       ]
+    },
+    {
+      "id": 100,
+      "name": "RedTeam-Tools",
+      "url": "https://github.com/A-poc/RedTeam-Tools",
+      "tags": [
+        "Tools and Techniques for Red Team / Penetration Testing"
+      ]
     }
   ]
 }
