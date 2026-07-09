@@ -976,6 +976,14 @@
       "tags": [
         "awesome-telegram"
       ]
+    },
+    {
+      "id": 99,
+      "name": "Web Scraping",
+      "url": "https://github.com/D4Vinci/Scrapling",
+      "tags": [
+        "Web Scraping"
+      ]
     }
   ]
 }
