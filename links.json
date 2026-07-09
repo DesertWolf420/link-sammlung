@@ -968,6 +968,14 @@
       "tags": [
         "AI--BLOG"
       ]
+    },
+    {
+      "id": 98,
+      "name": "awesome-telegram",
+      "url": "https://github.com/ebertti/awesome-telegram",
+      "tags": [
+        "awesome-telegram"
+      ]
     }
   ]
 }
