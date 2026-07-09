@@ -1000,6 +1000,15 @@
       "tags": [
         "HackGPT"
       ]
+    },
+    {
+      "id": 102,
+      "name": "agent with 7,300",
+      "url": "https://github.com/CyberStrikeus/CyberStrike",
+      "tags": [
+        "AI-powered offensive security agent with 7",
+        "300+ actionable security skills"
+      ]
     }
   ]
 }
