@@ -1009,6 +1009,14 @@
         "AI-powered offensive security agent with 7",
         "300+ actionable security skills"
       ]
+    },
+    {
+      "id": 103,
+      "name": "developer-home.bmwgroup",
+      "url": "https://developer-home.bmwgroup.net/dev-resources",
+      "tags": [
+        "developer-home.bmwgroup"
+      ]
     }
   ]
 }
