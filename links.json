@@ -1017,6 +1017,14 @@
       "tags": [
         "developer-home.bmwgroup"
       ]
+    },
+    {
+      "id": 104,
+      "name": "PowerApps-Tampermonkey",
+      "url": "https://github.com/jukkan/power-bookmarklets/tree/main",
+      "tags": [
+        "PowerApps-Tampermonkey"
+      ]
     }
   ]
 }
