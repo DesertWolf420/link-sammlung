@@ -1025,6 +1025,15 @@
       "tags": [
         "PowerApps-Tampermonkey"
       ]
+    },
+    {
+      "id": 105,
+      "name": "mcpmarket",
+      "url": "https://mcpmarket.com/tools/skills/official/microsoft",
+      "tags": [
+        "mcpmarket",
+        "skills"
+      ]
     }
   ]
 }
